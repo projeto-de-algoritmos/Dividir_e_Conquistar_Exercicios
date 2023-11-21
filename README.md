@@ -14,26 +14,16 @@ Tema:
 ## Sobre 
 O projeto consiste na resolução de 4 exercícios sobre o conteúdo de algoritmos Dividir e Conquistar da matéria de Projeto de Algoritmos. 
 
-#### Exercício 1: <link>
+#### Exercício 1: ![Exercicio 1](./enunciados/dc_ex1_enunciado.png)
+![Submissao 1](./enunciados/dc_ex1_submissao.png)
 
-#### Exercício 2: <link>
+#### Exercício 2: ![Exercicio 2](./enunciados/dc_ex2_enunciado.png)
+![Submissao 2](./enunciados/dc_ex2_submissao.png)
 
 #### Exercício 3: <link>
 
 #### Exercício 4: <link>
 
-## Soluções/Submissões
-### Exercício 1
-![Exercicio 1](<link>)
-
-### Exercício 2
-![Exercicio 2](<link>)
-
-### Exercício 3
-![Exercicio 1](<link>)
-
-### Exercício 4
-![Exercicio 2](<link>)
 
 ## Instalação 
 **Linguagem**: Python<br>
